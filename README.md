@@ -1,3 +1,5 @@
-# NodeSocketChatRoom
+# Node Socket Chat Room
 
-First Node js Oscket io practice
+Author : Ryan
+
+First Node js Oscket io practice  2016/07/30
